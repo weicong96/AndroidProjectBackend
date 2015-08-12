@@ -1,0 +1,22 @@
+{
+  "name": "nea-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.0.9",
+    "excel": "^0.1.4",
+    "firebase": "^2.2.9",
+    "geojson": "^0.2.1",
+    "jsdom": "^3.1.2",
+    "mongodb": "^2.0.39",
+    "request": "^2.58.0",
+    "togeojson": "^0.12.1",
+    "unzip": "^0.1.11"
+  }
+}

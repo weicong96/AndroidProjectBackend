@@ -1,0 +1,4994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <Style id="transBluePoly">
+   <IconStyle>
+    <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+    </Icon>
+  </IconStyle>
+    </Style>
+<Placemark>
+<name>Sunrise Close Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with play equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.857509620615,1.38701205494487</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sunrise Drive Playground 1</name>
+<styleUrl>#transBluePoly</styleUrl>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with play equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85736925892,1.38830604581889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sunrise Drive Playground 2</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with play equipment  3G equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.8552513353,1.39030175114533</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sunrise Place Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with Play equipment  3G equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.856599816397,1.38694293633966</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sunrise Terrace Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Open space with 3G equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.856120415848,1.38825833044796</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sunrise Way Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with adult fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.856751507709,1.3876621900553</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sunset Heights Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.768868040813,1.32794534226349</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sunset Way Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.764778924367,1.32769491174602</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sunset Way Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with Childrens Playground  3G equipment to be installed 2014</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.766406103841,1.32678815807769</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Surin Avenue Neighbourhood Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park is equipped with a set of 3G fitness equipment a set of play equipment a basketball court and a badminton court</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.884108272844,1.35555838216387</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tai Hwan Terrace Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park is equipped with a set of play equipment 2 sets of adult fitness and 2 sets of 3G fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860394544089,1.35635951423855</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tai Keng Gardens Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Children playground adult fitness corner terraces and large pavilion on hill</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.884998051403,1.34607166290998</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tai Keng Place Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Children playground in rubber mat EPDM and adult fitness corner in sandpit</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.884841976473,1.34503220641208</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taman Kembangan Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.914401865862,1.32500363898848</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taman Mas Merah Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with playground and fitness areas</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.764760033836,1.30875088157749</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taman Permata Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with play equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.835174885397,1.35015652266537</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tamarind Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground  adult fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860191979745,1.38970250164359</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lentor Grove Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.838321114421,1.38637973669035</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lentor Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.837571875702,1.38829223591773</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lentor Street Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834276200452,1.39009851881248</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lentor Vale Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.83614575779,1.38805456935129</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lentor Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.83838292419,1.38863128947497</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lilac Drive Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with play equipment  adult fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861150566578,1.38109932399906</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Limau Garden Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and 3G</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.9507729694,1.32245356453882</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Limau Villas Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and 3G</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.950395073824,1.32385257829817</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lorong 40 Geylang Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.88936887433,1.3136505206696</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lorong Kemunchup Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with fitness corner and basketball court</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.760958885386,1.36041994894691</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lorong Tanggam Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground 3G  adult fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.87384733518,1.39903483982128</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lower Peirce Reservoir Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.826296135098,1.36906550120152</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lower Seletar Reservoir Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.832170251883,1.40997415351914</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Loyang View Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and 3G Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.96563696809,1.36303983182996</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lucky Gardens Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with Childrens playground and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.94137579786,1.31928740487109</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Luxus Hills Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.875185642645,1.37949259943095</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MacPherson Linear Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Linear footpath behind residential houses along Jalan Kemajuan with one adult fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.881705741946,1.33379878806682</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Macritchie Reservoir Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.833590097763,1.34152334529409</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Malcolm Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.827057441484,1.32298740607525</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mariam Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and 3G Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.968547118089,1.35954769215733</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mariam Way Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and 3G Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.966204927675,1.36195275374642</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marine Parade Road Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Children playground and one reflexology footpath</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.908131554698,1.30489696252589</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marymount Terrace Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.840364611207,1.34895368854346</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mayfair Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter playground fitness corner and basketball court</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.780894607235,1.34139643749766</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mayflower Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small neighbour hood park with playground and swing set</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.839568295037,1.37271882671187</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mei Hwan Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park is surrounded by huge mature trees such as Tembusu and Rain trees There are play equipment 3G fitness equipment and adult fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861742933317,1.35276728866442</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mei Hwan Drive Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park is equipped with a set of 3G fitness equipment and a set of play equipment There is also a lawn for free play</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.863472473898,1.35335042708242</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mera Terrace Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.963505715492,1.3474047705449</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Meragi Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Parkland</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.960282312948,1.34438373879978</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Meyer Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and adult fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.894196753451,1.29856884994075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mimosa Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with Play equipment 3G equipment  Adult equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.862973706463,1.38426198053593</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mimosa Terrace Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with play equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860449361531,1.38405069179859</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mimosa Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with Swing  sand pit</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861459741128,1.38310515465827</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mount Emily Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with play equipment and benches</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847462092639,1.30449857561004</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mount Faber Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.818222144411,1.27528152166327</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mount Sinai Plain Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with playground fitness corner foot reflexology and shelter</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.781221505845,1.31570934266791</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mugliston Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.87790599151,1.38544622607727</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Namly Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.796581141846,1.32329926345827</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>National Orchid Garden</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.813893206005,1.3126705158473</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Neram Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with childrens playground  3G fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.865743776177,1.3855889336812</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nim Crescent Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Open space</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.86684059778,1.38308017906986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>North Bridge Garden</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with benches</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.862145226454,1.30410965683882</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Novena Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with shelter play equipment and benches</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.842813137231,1.32231313593709</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Novena Rise Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with benches</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.842727941451,1.3248386151594</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OasisMulberry Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground Fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.878435637747,1.33232524594027</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OneNorth Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Hilly park</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.79036798553,1.30427861063574</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Opera Estate Football Field</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with fitness equipment and football field</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.924455802318,1.32010147810831</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Orchid Village Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with play equipment and fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.801712841281,1.33570435527587</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pandan Reservoir Fitness Corner</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.748695392258,1.31755165821985</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Saraca Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858757328817,1.38594349222883</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Savoy Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.769988621807,1.33343853094859</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Seletar Terrace Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with Play equipment  adult fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.868719454141,1.38146831087293</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sembawang Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Regional park with beach fishing area BBQ pits playground and fitness areas</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.836845101357,1.46150330043404</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sengkang Riverside Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.884325486786,1.39944857143037</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sennett Avenue Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small open space</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.939423616753,1.31878523959754</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sennett Avenue Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with Childrens playground and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.936212045664,1.3170133741322</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Serenade Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground with only  swing</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834559341631,1.37992134329817</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ShangriLa Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground with badminton court</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.83239167789,1.37102093781268</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Shelford Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.810508900266,1.3283443325997</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Siang Kuang Avenue Interim Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground Fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.873049451737,1.32972155035135</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Singapore Botanic Gardens</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.816250268609,1.31104847734541</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sixth Avenue Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.79128023755,1.32243626949405</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Somme Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858151674512,1.31148443804899</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Soo Chow Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with play equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.832028027546,1.35364746825937</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Springleaf Avenue Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Lawn swing fitness children CPE Beside Springleaf PC</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.822384092207,1.4008714573785</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Springleaf Garden Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Children fitness and 3 G facilities with a small shelter</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.822321450882,1.39803959844004</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Springside Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Children fitness and 3 G facilities with a small shelter</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.820607110397,1.40567223303104</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>St Annes Wood Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.903735825469,1.39164040010372</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>St Nicholas View Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.832784700942,1.3716267742772</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Stamford Green</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.848860456911,1.29571719355407</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Stratton Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with Play equipment  adult fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.86696684748,1.37923731830541</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sun Plaza Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with amphitheatre playgrounds fitness areas beach ball court and woodball course</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.944481868782,1.35926391142362</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sunbird Circle Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and Fitness Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.958233879574,1.33903926627321</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sungei Buloh Wetland Reserve</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.723534944097,1.44189039948414</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chestnut Close Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter and Fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.773356362794,1.36927068037386</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chestnut Drive Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.768829391198,1.36763406801938</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chiltern Drive Interim Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - An small interim open space with few adult fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.862006067085,1.34855938780855</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Choa Chu Kang Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with playgrounds fitness areas event lawns and amphitheatres</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.748432241621,1.38913980886139</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chu Yen Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and pickle ball hardcourt</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.759015637786,1.35864055050598</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chuan Green Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground fitness equipment and shelter</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.866008071317,1.36048001552191</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chuan Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.867552535893,1.35722209245887</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chwee Chian Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground Fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.788953699829,1.27920720477559</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Clementi Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground 3G equipment to be installed 2015</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.773259720224,1.32310402348817</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Clementi Woods Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Woodball Dog run Amphitheatre Event lawn Playground Fitness Sakura restaurant</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.767616532775,1.29893386834296</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Clover Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and 3G fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.84462153984,1.35106193217733</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Clover Way Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground adult and 3G fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845964262854,1.35013872501444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Colchester Grove Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Open space with few park benches</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.86745417052,1.35758510655948</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Coney Island</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.923131139235,1.40991313650502</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Coronation Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and 3G equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.796400124671,1.32202635603345</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Countryside Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground with play and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.838590641616,1.39006554542232</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dairy Farm Nature Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.773907987755,1.36271382764674</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dedap Place Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.868413038017,1.38779790665594</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dew Garden</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground  adult fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.871065074659,1.39926667767606</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dhoby Ghaut Green</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845881977936,1.29834322056986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Duchess Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and swings</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.805479090482,1.32429064587405</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Duxton Plain Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.8414189676,1.28112266494683</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>East Coast Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.920604899212,1.30316915203231</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>East Coast Terrace Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Linear Park with Childrens Playground fitness equipment  and foot reflexology area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.923805236998,1.31099640771039</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Eastwood Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and 3G</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.957615869012,1.32311539261406</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Greenridge Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.765762904673,1.33428004517325</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Greenwood Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small park with playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.805486629444,1.33550656878797</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grove Lane Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground fitness corner shelter open space</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.784205886236,1.3137636220749</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Guillemard Road Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A park for gathering point</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.892396979147,1.31455160511851</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Haig Walk</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Linear park with fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.900739916391,1.30651965447623</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Harvey Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.955191599526,1.34065936050599</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hazel Park Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter and Fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.763644560786,1.37163493804332</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Henry Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.783106114606,1.31623488235861</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Highgate Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and elderly fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.765984148013,1.34051682419267</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hillview Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.761024532201,1.3553609370348</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hindhede Nature Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.77600662447,1.35020447453654</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Holland Green Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.78281400219,1.32686171395236</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Holland Grove View Fitness Corner</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with fitness corner foot reflexology</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.782779114084,1.31248369178306</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Holland Grove View Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.781229775756,1.31295119896362</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Holland Village Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with restaurant</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.795543622971,1.31173057847923</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hong Lim Park  Speakers Corner</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.846577295429,1.28663959566694</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hooper Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small parks with childrens playground and adult fitness equipment Very popular with coconut trees as the vicinity landmark</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.84320390855,1.31239924840066</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hoover Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Medium sized Park with small event area Play and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.773039680708,1.34386322111879</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>HortPark</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.799386125098,1.27855820923818</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hua Guan Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.785059215449,1.33701086926486</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Interim Park At Lengkong Enam</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Interim park with fitness facilities hardcourt and  bird hanging area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.91473660098,1.32736442414984</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Interim Park at Terang Bulan Avenue</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small open space with a bench</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.921576471932,1.3216336296694</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Island Gardens Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small parks with play equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.828438786134,1.36199920623975</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Istana Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843838323347,1.29926428027293</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Elias Terrace Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and 3G Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.94109345889,1.37219058339959</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Elite Terrace Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with Childrens Playground fitness equipment and amphitheatre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.924305988884,1.31559917854029</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ellington Square Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834530035182,1.37200264230042</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Empress Place</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.851956610324,1.28682424129957</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Greenfield Drive Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with Childrens playground fitness equipment and foot reflexology area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.917656024672,1.31303581107939</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Greenleaf View Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground fitness corner shelter basketball court</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.78807572527,1.32228798927111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Admiralty Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.780046162582,1.44720080922318</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aida Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with childrens playground and futsal court</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.927926603466,1.31937995416184</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aljunied Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with elderly and adult fitness corner jogging track children playground Avenues of large mature trees lining along jogging track with pockets of lawn areas for picnic</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.879962207979,1.32913876848867</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Almond Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.771883899225,1.37321536449623</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ang Mo Kio Town Garden East</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Regional Park with playgrounds and fitness corners</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.850285567309,1.37057135612504</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ang Mo Kio Town Garden West</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Regional Park with playgrounds fitness corners and amphitheatre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.842886414513,1.37402545471958</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ann Siang Hill Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.846118447494,1.28043816353229</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aroozoo Avenue Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park is equipped with a play equipment and a 3G fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.885954527063,1.35519643049199</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Arthur Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground with separated swing and 3G fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.88821367368,1.30338170661705</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bangsawan Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with Childrens playground and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.923837620355,1.32120790006028</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Banyan Villas Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.838825277184,1.3872499102343</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bedok Reservoir Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.926810045526,1.3390946362817</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bedok Ria Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.953082053635,1.32741768180123</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bedok Terrace Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and 3G</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.947489206795,1.32553444512632</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Eng Kong Garden Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.769163036626,1.33692407470229</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Eng Kong Place Fitness Corner</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.767246561337,1.33473959485904</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Esplanade Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853596400413,1.28941741800336</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Faber Height Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground Undergoing EUP soon</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.757667277042,1.32250399740327</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Faber Hill Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with Childrens Playground Fitness area and 3G equipment Undergoing EUP soon</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.757976150564,1.31976758358709</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Florissa Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.835071907816,1.38695435804273</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fort Canning Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.846608983013,1.29177860809685</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fudu Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.837234058103,1.38983545432097</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fulton Avenue Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.833534283612,1.3621188848614</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fuyong Interim Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.768536693155,1.35740975478711</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ganges Avenue Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small open space</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.83179735799,1.29076030056009</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Garden View Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.865669113239,1.36042521474141</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Gelenggang Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with play and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.829857265273,1.37347637397773</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Gentle Drive Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.840698625209,1.32036136509426</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Geylang East Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with adult fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.88765874677,1.3217721178548</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Golden Rise Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.764868194798,1.33632398126216</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Goldhill Avenue Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with childrens playground 3G and adult fitness equipment and shelters</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.833173475474,1.32113374960477</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Goodlink Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with shelter play and fitness facilities</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.825350922214,1.42728128665072</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tampines Eco Green</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Ecofriendly park with  various natural habitats</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.948689366497,1.3639155899098</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tanah Merah Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and Fitness Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.946875224546,1.32902966851856</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Upper Seletar Reservoir Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.805723331986,1.39974921721162</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Villa Verde Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Linear park with childrens playground and fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.751410856358,1.38954903501173</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>War Memorial Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854818147671,1.29282484649393</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Waringin Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.919178204365,1.32302334853521</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Watten Heights Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground shelters and 3G equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.808986180429,1.33170306171786</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Park Villas Terrace Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small park equipped with play equipment adult fitness and 3G fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.880038230703,1.36898208387066</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Parry Avenue Interim Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small park with play equipment rockers only</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.881278146139,1.36407373309671</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Parry Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park is equipped with play equipment adult fitness and 3G fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877504075204,1.36602908698969</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pasir Panjang Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.79207551127,1.27569896686513</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pasir Ris Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.952172758964,1.37868453689392</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pasir Ris Town Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.952378005636,1.3716900738208</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pavilion Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and fitness corners</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.751976968034,1.3722860066847</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Paya Lebar Crescent Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Children playground and one new elderly fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.883568404549,1.34896694230156</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pearls Hill City Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Big park with pond and shelters</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.839540708229,1.28238124414046</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pebble Garden</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.829488778021,1.45063865348514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pemimpin Place Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and adult fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.842719236066,1.3533702707844</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pesari Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and 3G</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.953981733181,1.324428247331</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Phoenix Heights Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and fitness corners</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.757239537453,1.37589014077348</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Platina Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter play and fitness facilities</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.826118400007,1.42754567725611</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Poh Huat Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small park with a set of play equipment and 3G fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.881610799197,1.36693744926293</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pulau Ubin and Chek Jawa</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Home to Singapore’s last villages or kampongs the island still retains the rustic beauty and simplicity of a bygone era</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.963300946081,1.40776428507123</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punggol Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with scenic pond view childrens playground fitness equipment and pavilions</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.898645842845,1.37693936583131</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punggol Waterway</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.915404951165,1.40223360387683</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punggol Waterway Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.904814513415,1.41099763889141</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Realty Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small park equipped with a set of play equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.889831908104,1.36730195532453</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Richards Avenue Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small park with a set of play equipment adult fitness and 3G fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.882128796632,1.36092892297791</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>River Valley Road  Clemenceau Avenue Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844914351145,1.29309079917385</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rowell Road Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small open space with benches</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854848295572,1.30842263461885</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bukit Batok Town Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.756069179056,1.35736134468349</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bukit Timah Nature Reserve</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.783929818467,1.3475075201574</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bunga Rampai Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with a big shelter with children playground and elderly fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.884274198797,1.34045320124022</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Burgundy Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with play and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.760904709225,1.33982735414664</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Butterfly Avenue Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground Fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877336211573,1.3344338989115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cactus Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with play Â equipment 3G equipment  Adult fitness Joggingwalking track  multi purpose field</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852236150838,1.39010938476819</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Carmichael Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with playground and fitness areas</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.863114611694,1.34262205155537</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Carpmael Road Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.898951215527,1.31150266082305</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cashew Crescent Fitness Corner Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.769494346782,1.37224518692287</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cashew Link Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter and playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.76892468923,1.37135922070387</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cashew Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park that link Cashew Terrace to Upper Bukit Timah</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.764667482351,1.37060015243331</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Central Catchment Nature Reserve</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - The largest of the nature reserves in Singapore the Central Catchment Nature Reserve occupies over 2000 hectares of forest cover and is home to some of the richest forests in terms of biodiversity</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.805473791769,1.37730556038705</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Changi Beach Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.997184393604,1.38972975139912</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Changi East Boardwalk</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.983622337184,1.39228438897046</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Changi Heights Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and 3G Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.972156282074,1.36284834831589</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Changi Point Ferry Terminal</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.987332644722,1.39118822458701</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Changi Point Promenade</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.989272372238,1.390140951537</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Changi Point Waterfront Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.988051398329,1.39064333877112</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Changi West Boardwalk</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.975933122808,1.3902150542294</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chartwell Drive Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground fitness equipment and shelter</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.863871294963,1.35963103649584</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chempaka Avenue Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground Fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.875615242383,1.33187442001316</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cheng Soon Garden Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with shelter playground fitness corner and hardcourt</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.771682685695,1.3358866939705</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bedok Town Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Regional Park with event space childrens playground fitness equipment toilet facilities and water cooler</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.925972253787,1.33560198450407</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Begonia Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with childrens playground  3G fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.863387298767,1.38785748253603</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Beng Wan Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.865834973388,1.3238063478709</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Berlayer Creek</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.83617510264,1.23851833635921</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Binchang Rise Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and shelters</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843548088062,1.34867397897745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bishan  Ang Mo Kio Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847294226168,1.36145620648909</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bougainvillea Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with childrens playground shelters and toilet</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.807657369643,1.32671635336216</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bukit Batok Nature Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.765471699976,1.34754399194205</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Angin Laut Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.956224655346,1.33718432124583</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Buloh Perindu Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with Childrens playground and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.919384156597,1.30848292992852</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Chempaka Kuning Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and 3G Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.950167961932,1.32974610747595</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Dermawan Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.758605520479,1.36063927898319</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Geneng Interim Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small park with play equipment rockers only and 3G fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.88087443974,1.35333800196171</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Kayu Interim Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.872880964763,1.39810320066922</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Kebaya Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.780246033866,1.31411524332682</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Kelichap Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - One children playground and small fitness corner with two equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.881824287828,1.34678239049475</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Kemuning Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A set of elderly fitness equipment  children play ground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.826963502418,1.43935870294988</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kew Crescent Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and 3G</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.948585421959,1.31918788518837</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kew Drive Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.951753979722,1.32070986474276</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kim Pong Road Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small open space</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.829976393088,1.28384510792066</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kim Seng Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834956908885,1.29284043916576</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kings Drive  Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.806055303151,1.31911035997856</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kitchener Green Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small park with equipment and benches</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.859532877055,1.30730529338558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kranji Nature Trail</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.733833893147,1.44435173985279</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kranji Reservoir Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.740056568413,1.4388066298566</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Labrador Nature Reserve</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.803132814337,1.26576172036298</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lakeside Grove Fitness Corner</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small linear park Fitness equipment only</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.717159514436,1.3398046677157</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lakeside Grove Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - small park Play equipment residents adopted garden</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.718594118118,1.34007334774287</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Leban Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with play and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.829072203297,1.37276131810547</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lembu Road Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small open space</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854775812083,1.30975971399524</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lentor Green Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.837056146949,1.38528606160517</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>West Coast Green Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with playground and fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.756359845287,1.31556068454332</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>West Coast Place Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with playground and fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.758449842654,1.31425426825215</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>West Coast Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.762999629014,1.29615362664009</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Westville Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Linear park Play equipment only Runs behind residences</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.698635228181,1.35423694473629</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Westwood Park Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Medium sized park play and exercise equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.701047646077,1.35177238361971</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wilkinson Interim Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with multi purpose hardcourt</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.887304013014,1.30157246225276</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jacob Ballas Childrens Garden</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Opened on Children’s Day 1 October 2007 the Jacob Ballas Children’s Garden is Asia’s first garden dedicated to children</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.818667030409,1.3212833078573</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Woodlands Town Garden</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with river flowing through and playgrounds</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.769933927944,1.43763321811693</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Woodlands Town Park East</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A hilly park with a bird eye view of the neighbouring HDB estates basis amenities are a rain shelter a set of adult fitness equipment fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.779226001313,1.4365243013607</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Woodlands Waterfront Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.780114908219,1.45270023032827</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yio Chu Kang Gardens Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - 2 shelter children play 3G and adult facilities</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.837487072702,1.38068139387103</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yishun Neighbourhood Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Hilltop park with playground and fitness corner</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.835076424078,1.43762232106593</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yishun Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Regional park with playgrounds fitness corners  forested area and event spaces</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.842609366016,1.42437605361681</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yishun Pond Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with lookout tower flower trail and pond</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.839486713961,1.42759686735229</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Youth Olympic Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860639106223,1.2884906799483</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yunnan Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Undulating Medium sized park Hardcourt play and fitness equipment NTU Arch on site</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.692901208879,1.33748485534179</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhenghua Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.77834846091,1.36793786071091</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Springleaf Nature Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Springleaf Nature Park was formerly part of the Chan Chu Kang village – named after the headman Chan Ah Lak who acquired the land near Seletar River to cultivate gambier and pepper</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.815395220302,1.40006004939081</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sisters’ Islands Marine Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - The Sisters’ Islands Marine Park which will span about 40 hectares around Sisters Islands and along the western reefs of both St Johns Island and Pulau Tekukor will be a platform for outreach educational conservation and research activities related to our native marine biodiversity</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.83267590876,1.21597950858504</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Limau Kasturi Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small open space</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.946227385933,1.3242846575901</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Limau Kasturi Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and 3G</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.946384964833,1.3239838194846</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Limau Manis Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and community gardening plot</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.949047295017,1.32472790233835</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Mas Kuning Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground and  fitness areas</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.763605438953,1.30780826614482</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Mas Puteh Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with fitness areas</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.762026748945,1.30899512334512</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Naung Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park equipped with play equipment suitable for toddlers and including swings</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.892821571935,1.36956345416486</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Pari Burong Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and Fitness Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.946937198262,1.33384925097748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Pari Dedap Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and 3G Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.943880154511,1.33302088707118</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Pelatok Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Open space</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.960856498718,1.3461749065887</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Pelatok Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and 3G Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.960344010248,1.34609561551108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Pintau Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with Play equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.839944516366,1.35403604412613</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Rasok Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A playground with  Adult fitness  stations children play sets and a hard court</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.759039014596,1.4165120114573</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Remaja Interim Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with Community Gardening</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.760775689638,1.35757865623228</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Riang Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Half basketball court elderly fitness corner with one swing children playground and circular shelter</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.867395559298,1.34710883877978</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Selaseh Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.873381687499,1.38560198277877</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tanah Puteh Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with Childrens playground and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.931430404959,1.31587370494672</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tanjong Katong Road South Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.897321607207,1.30017444295627</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tanjong Pagar Ricoh Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845792522623,1.27635104608588</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tavistock Avenue Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with childrens playground fitness equipment and pavilion</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.865357961199,1.37020757883326</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Teacher`s Estate Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Amphitheatre 3GfitnessswingChildren CPE lawn</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.829199178001,1.38199259899913</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Telok Blangah Hill Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.81054474295,1.27884569615759</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Telok Kurau Lorong N Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with swings windmill panels and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.912805085256,1.31032540897053</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Telok Kurau Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with children playground elderly fitness corner basketball court and one large court at Joo Chiat Place</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.914285523069,1.31536509586415</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Foothills Fort Canning Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845690332965,1.29225794692451</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Inglewood Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with play equipment and fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.830173192427,1.3610142270561</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Southern Ridges</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.804833790717,1.27987732910438</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Thomson Green Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Facilities include 3Gfitness and children 1 shelter</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.832622928212,1.37869251602323</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Thomson Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with play equipment and adult fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834363616763,1.35429142920729</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Thomson Park Estate Interim Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with benches</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.83403483622,1.35655743731256</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Thomson Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with play equipment and 3G adult fitness</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843851303941,1.31615318577421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Thomson Walk Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small playground with swing and a shelter</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.832499155118,1.37599742466272</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Thong Soon Green Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Facilities include 3Gfitnessfoot reflex and children play 1 shelter</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.818445683434,1.40003246064462</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Thrift Drive Open Space</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Green lawn at central of open space with children playground basketball court and new elderly fitness corner Shelter walkway linked to nearest busstop</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.88324699871,1.34388689243289</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tiong Bahru Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with pond trellis shelters playground and fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.824026463125,1.28761761506913</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Toa Payoh Town Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with pond observation tower pavilions and shelters</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847967497569,1.33057998605908</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Turnhouse Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with fitness Equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.9789789051,1.38990390255803</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>University Road Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground shelters and 3G equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.817666084079,1.32545272547294</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Upper Peirce Reservoir Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.81135274335,1.37450896194827</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Senang Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.915657370776,1.32899620827229</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jalan Tekukor Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Medium sized park undulating terrain Hardcourt available</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.766775692831,1.34613822800852</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jambol Place Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.790185027139,1.27902609522554</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Janggus Garden</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with a set of adult  fitness equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.836983524269,1.45754016013237</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Joo Chiat Terrace Interim Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground and fitness area</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.901698603751,1.31440870918684</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jupiter Road Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small Park with Play equipment</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.825160465202,1.35827037646612</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jurong Central Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park with event lawn playground fitness areas fast food restaurant</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.707875199171,1.33801777576519</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kallang Riverside Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A park along the beach with amenities such as shelters fitness equipment and toilets</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.866978293155,1.30578704996042</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kampong Glam Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A small park with benches</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.862995745804,1.30244576786101</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kampong Java Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Park beside KKH with lily pond and benches</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845551862799,1.31086298732383</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kandis Garden</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - A set of elderly  fitness equipment   Children play set</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.835673910799,1.45622190270942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Katong Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with childrens playground adult and 3G fitness equipment archaeological dig for Fort Tg Katong performance stage dog run area and foot reflexology path</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.8863666731,1.29717527616563</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kent Ridge Park</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.790318709804,1.28435374687597</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kew Avenue Playground</name>
+<styleUrl>#transBluePoly</styleUrl>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Small park with playground</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.948450176579,1.3216268711929</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

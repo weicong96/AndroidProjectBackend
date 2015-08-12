@@ -1,0 +1,4 @@
+{"_id":{"$oid":"55880506520dc81c3686cc47"},"address":"157 Pasir Panjang Road, Singapore 118492","lat":1.275183,"lng":103.791721,"parkName":["Pasir Panjang Park"],"risk":"red"}
+{"_id":{"$oid":"55880521ecdaf52b36b15e6a"},"address":"1 Pasir Ris Close, Singapore 519599","lat":1.3793365,"lng":103.9550175,"parkName":["Pasir Ris Park"],"risk":"red"}
+{"_id":{"$oid":"55880525ecdaf52b36b15e6b"},"address":"1384 Ang Mo Kio Avenue 1, Singapore 569932","lat":1.362081,"lng":103.847562,"parkName":["Bishan  Ang Mo Kio Park"],"risk":"red"}
+{"_id":{"$oid":"55880535ecdaf52b36b15e72"},"address":"98 Pasir Ris Central, Singapore 519639","lat":1.3726259,"lng":103.9525139,"parkName":["Pasir Ris Town Park"],"risk":"red"}

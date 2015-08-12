@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>BreedingHabitat_Southwest_Area</name>
+<Style id="examplePolyStyle">
+<PolyStyle>
+<color>9f0000ff</color>
+<colorMode>random</colorMode>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.7430907401,1.3499672215447,2357
+103.743090673371,1.35177594814586,2357
+103.744887798534,1.35177601468186,2357
+103.744887863935,1.34996728799165,2357
+103.7430907401,1.3499672215447,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  2</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  2</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.748480518069,1.39518558025257,2357
+103.748480453224,1.3969943064285,2357
+103.750277612446,1.39699437104162,2357
+103.750277675917,1.395185644782,2357
+103.748480518069,1.39518558025257,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.752075755657,1.3680548094778,2357
+103.752075694767,1.36986353623425,2357
+103.753872833738,1.36986359687953,2357
+103.753872893281,1.36805487004298,2357
+103.752075755657,1.3680548094778,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.773643279382,1.29028013467388,2357
+103.773643237195,1.29208886341765,2357
+103.775440320694,1.29208890526774,2357
+103.77544036161,1.29028017646537,2357
+103.773643279382,1.29028013467388,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.752075633796,1.37167226296328,2357
+103.752075572745,1.37348098966487,2357
+103.753872714414,1.37348105047036,2357
+103.753872774115,1.37167232368867,2357
+103.752075633796,1.37167226296328,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.782628366746,1.30655889109292,2357
+103.782628330458,1.30836761987781,2357
+103.784425425737,1.30836765577853,2357
+103.784425460739,1.30655892694399,2357
+103.782628366746,1.30655889109292,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.739496907072,1.33911472556916,2357
+103.739496838242,1.34092345214836,2357
+103.741293955279,1.34092352080521,2357
+103.74129402279,1.33911479413337,2357
+103.739496907072,1.33911472556916,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  2</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  2</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.741293819983,1.34454097406835,2357
+103.741293752198,1.34634970065958,2357
+103.743090873291,1.34634976826138,2357
+103.743090939752,1.3445410415793,2357
+103.741293819983,1.34454097406835,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.710742618626,1.34815707222996,2357
+103.710742528098,1.34996579694874,2357
+103.712539650051,1.34996588745366,2357
+103.712539739251,1.34815716261358,2357
+103.710742618626,1.34815707222996,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  2</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  2</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.741293752198,1.34634970065958,2357
+103.741293684322,1.34815842722388,2357
+103.74309080674,1.34815849491653,2357
+103.743090873291,1.34634976826138,2357
+103.741293752198,1.34634970065958,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.734105341836,1.34454069071272,2357
+103.734105268758,1.34634941692264,2357
+103.735902389475,1.34634948985634,2357
+103.73590246123,1.3445407635484,2357
+103.734105341836,1.34454069071272,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  5</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  5</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.743089729769,1.37709811770563,2357
+103.743089661698,1.37890684389728,2357
+103.744886807009,1.37890691176919,2357
+103.744886873724,1.37709818548848,2357
+103.743089729769,1.37709811770563,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.741292027938,1.39156785659116,2357
+103.741291957782,1.39337658247022,2357
+103.743089113912,1.39337665243417,2357
+103.743089182698,1.39156792646426,2357
+103.741292027938,1.39156785659116,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  3</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  3</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.809585082817,1.27400216045184,2357
+103.809585066244,1.27581089025835,2357
+103.811382139185,1.27581090631865,2357
+103.811382154503,1.27400217648937,2357
+103.809585082817,1.27400216045184,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.743090939752,1.3445410415793,2357
+103.743090873291,1.34634976826138,2357
+103.744887994473,1.34634983453021,2357
+103.74488805961,1.34454110775906,2357
+103.743090939752,1.3445410415793,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.74488805961,1.34454110775906,2357
+103.744887994473,1.34634983453021,2357
+103.746685115743,1.34634989946606,2357
+103.746685179557,1.34454117260765,2357
+103.74488805961,1.34454110775906,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.743090873291,1.34634976826138,2357
+103.74309080674,1.34815849491653,2357
+103.744887929248,1.34815856127442,2357
+103.744887994473,1.34634983453021,2357
+103.743090873291,1.34634976826138,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  2</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  2</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.7215257553,1.33911396700767,2357
+103.721525673289,1.34092269256193,2357
+103.723322789315,1.34092277449476,2357
+103.723322870008,1.33911404882995,2357
+103.7215257553,1.33911396700767,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  2</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  2</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.744886873724,1.37709818548848,2357
+103.744886807009,1.37890691176919,2357
+103.746683952406,1.37890697827587,2357
+103.746684017766,1.3770982519079,2357
+103.744886873724,1.37709818548848,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.699959897488,1.34815650189834,2357
+103.699959798998,1.34996522585167,2357
+103.701756920195,1.34996532437589,2357
+103.701757017358,1.3481566002905,2357
+103.699959897488,1.34815650189834,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>Aedes Mosquito Breeding Habitats  1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - Aedes Mosquito Breeding Habitats  1</b>
+</font></p>
+</description>
+<styleUrl>#examplePolyStyle</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 103.73949676932,1.34273217870072,2357
+103.739496700305,1.34454090522622,2357
+103.741293819983,1.34454097406835,2357
+103.741293887676,1.34273224745021,2357
+103.73949676932,1.34273217870072,2357
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document>
+</kml>

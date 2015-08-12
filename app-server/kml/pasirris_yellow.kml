@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>pasirris_green</name>
+		<Placemark>
+			<name>Pasir Ris Park</name>
+			<styleUrl>#poly-009D57-0-38-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>103.936028,1.393066,0.0 103.933454,1.3907500000000002,0.0 103.93800300000001,1.3872320000000002,0.0 103.936243,1.384014,0.0 103.939505,1.381826,0.0 103.94062,1.3827700000000005,0.0 103.94165,1.381998,0.0 103.942766,1.38277,0.0 103.943496,1.3839710000000003,0.0 103.948302,1.3811400000000003,0.0 103.946886,1.3794659999999996,0.0 103.944182,1.378179,0.0 103.948946,1.375562,0.0 103.952508,1.375219,0.0 103.954525,1.3805390000000002,0.0 103.955555,1.38041,0.0 103.95615600000001,1.379423,0.0 103.955727,1.379037,0.0 103.955941,1.378565,0.0 103.9568,1.37878,0.0 103.95688500000001,1.3795950000000003,0.0 103.958387,1.380196,0.0 103.959374,1.3803670000000003,0.0 103.96542600000001,1.3813969999999995,0.0 103.965468,1.382298,0.0 103.959632,1.3813540000000002,0.0 103.954525,1.381955,0.0 103.950148,1.383113,0.0 103.944354,1.3862020000000004,0.0 103.937917,1.3901920000000005,0.0 103.936028,1.393066,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-009D57-0-38-nodesc-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4cfdff00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-009D57-0-38-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-009D57-0-38-nodesc-normal</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

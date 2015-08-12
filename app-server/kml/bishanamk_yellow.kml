@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>bishanamk_green</name>
+		<Placemark>
+			<name>Bishan AMK Park</name>
+			<styleUrl>#poly-009D57-0-76-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>103.85191400000001,1.360396,0.0 103.846915,1.3638070000000002,0.0 103.844469,1.3640640000000002,0.0 103.842344,1.364128,0.0 103.832088,1.367604,0.0 103.828826,1.367882,0.0 103.828418,1.3676889999999997,0.0 103.828461,1.367046,0.0 103.830779,1.366788,0.0 103.83406200000002,1.365051,0.0 103.833461,1.3640209999999997,0.0 103.833568,1.363614,0.0 103.833911,1.363828,0.0 103.834963,1.3639350000000001,0.0 103.83565,1.363678,0.0 103.840542,1.361468,0.0 103.842065,1.3608460000000002,0.0 103.842537,1.362498,0.0 103.844962,1.361468,0.0 103.85013300000001,1.3570280000000001,0.0 103.85195700000001,1.359967,0.0 103.85191400000001,1.360396,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-009D57-0-76-nodesc-normal'>
+			<LineStyle>
+				<color>fffdff00</color>
+				<width>0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4cfdff00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-009D57-0-76-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-009D57-0-76-nodesc-normal</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

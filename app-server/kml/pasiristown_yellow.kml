@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>pasiristown_green</name>
+		<Placemark>
+			<name>Pasir Ris Town Park</name>
+			<styleUrl>#poly-009D57-0-76-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>103.952766,1.3739419999999996,0.0 103.951242,1.373739,0.0 103.95121000000002,1.373224,0.0 103.950856,1.3726340000000004,0.0 103.950748,1.372216,0.0 103.951231,1.3707250000000004,0.0 103.950791,1.3699520000000005,0.0 103.951435,1.3696740000000003,0.0 103.953817,1.3694159999999995,0.0 103.953903,1.3705210000000005,0.0 103.953892,1.371154,0.0 103.953742,1.371658,0.0 103.952766,1.3739419999999996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-009D57-0-76-nodesc-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4cfdff00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-009D57-0-76-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-009D57-0-76-nodesc-normal</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
